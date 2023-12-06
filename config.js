@@ -1,7 +1,7 @@
 const jsonConfig = {
-  API_URL: "https://jdinxin.compranoseua.com.br",
-  WEBSITE_URL: "https://jdinxin.vercel.app",
-  IMG_URL: "https://jdinxin-admin.compranoseua.com.br",
+  API_URL: "https://api.sinoway.net.br",
+  WEBSITE_URL: "https://sinoway.vercel.app",
+  IMG_URL: "https://sinoway.net.br",
 
   maillerConfig: {
     // host: 'smtp.gmail.com',
