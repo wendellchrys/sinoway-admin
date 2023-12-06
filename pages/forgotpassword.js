@@ -28,7 +28,7 @@ const SignInPage = () => {
          <Row gutter={[16, 16]}>
             <Col sm={6} offset={3} xs={18}>
                <Typography.Title className="text-center mt-5">
-            Jdinxin Admin
+            Sinoway Admin
                </Typography.Title>
                <div className="text-center fs-10 mb-5">Painel Administrativo</div>
 

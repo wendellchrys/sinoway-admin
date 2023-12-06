@@ -72,7 +72,7 @@ const Sidebar = () => {
          >
             {collapsed ? <MenuUnfoldOutlined /> : <MenuFoldOutlined />}
          </div>
-         <div className="logo">Jdinxin Admin</div>
+         <div className="logo">Sinoway Admin</div>
          <Menu
             theme="dark"
             mode="inline"
