@@ -203,7 +203,7 @@ const Default = ({ getData = [] }) => {
                   </Radio.Button>
                   {orderStatus.map((item) => (
                      <Radio.Button ghost key={item._id} value={item._id}>
-                        <IntlMessages id={"app.pages.orders." + item.title} />
+                        <IntlMessages id={item.title} />
                      </Radio.Button>
                   ))}
                </Radio.Group>
